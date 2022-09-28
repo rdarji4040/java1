@@ -1,5 +1,5 @@
 public class Hello {
-    public void addNumber(int a){
+    public void add(int a){
         //add
     }
 }
