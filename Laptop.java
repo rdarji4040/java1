@@ -4,7 +4,7 @@ public class Laptop {
         return a+b;
     }
 
-    public void add(int a ){
+    public void added(int a ){
         return a+b;
     }
 
