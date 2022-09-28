@@ -4,4 +4,8 @@ public class Laptop {
         return a+b;
     }
 
+    public void add(int a ){
+        return a+b;
+    }
+
 }
